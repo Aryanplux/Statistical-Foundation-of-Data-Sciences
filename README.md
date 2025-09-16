@@ -142,8 +142,6 @@ jupyter notebook
 -  Multi-dimensional array operations and linear algebra
 -  Professional data science workflow implementation
 
-*[View detailed results →](./Assignment-01-Descriptive-Stats/)*
-
 ---
 
 ##  Contributing Guidelines
@@ -181,7 +179,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Author:** Aryan Dhiman
 - **Email:** aryandhiman@shooliniuniversity.com
 - **GitHub:** Aryanplux(https://github.com/Aryanplux)
-- **LinkedIn:** Aryan Dhiman([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aryan-dhiman-a8974628b/))
+- **LinkedIn:** Aryan Dhiman([https://www.linkedin.com/in/aryan-dhiman-a8974628b/])
 
 ---
 

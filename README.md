@@ -16,9 +16,9 @@ This repository contains comprehensive practical assignments for **CSU1658 - Sta
 
 **Student Information:**
 - **Course:** Statistical Foundation of Data Sciences (CSU1658)
-- **Institution:** [Your Institution Name]
-- **Academic Year:** 2025-2026
-- **Author:** [Your Full Name]
+- **Institution:** Shoolini University
+- **Academic Year:** 2025-2027
+- **Author:** Aryan Dhiman
 
 ---
 

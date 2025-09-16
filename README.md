@@ -86,7 +86,7 @@ jupyter notebook
 ### **Method 3: Google Colab**
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Select "GitHub" tab
-3. Enter repository URL: `https://github.com/[your-username]/CSU1658-Statistical-Assignments`
+3. Enter repository URL: `https://github.com/Aryanplux/Statistical-Foundation-of-Data-Sciences`
 4. Choose desired notebook to run
 
 ---

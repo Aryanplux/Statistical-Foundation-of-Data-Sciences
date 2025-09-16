@@ -91,30 +91,6 @@ jupyter notebook
 
 ---
 
-##  Repository Architecture
- Statistical-Foundation-of-Data-Sciences/
-├──  README.md # This comprehensive overview
-├──  LICENSE # MIT License terms
-├──  .gitignore # Git ignore patterns
-├──  requirements.txt # Python package dependencies
-├──  environment.yml # Conda environment specification
-├──  Assignment-1/ # Individual assignment folders
-│ ├──  README.md # Assignment-specific documentation
-│ ├──  CSU1658_Assignment_1.ipynb # Main analysis notebook
-│ ├──  data/ # Dataset files and documentation
-│ ├──  outputs/ # Generated results and visualizations
-│ └──  scripts/ # Utility Python scripts
-├──  docs/ # Project documentation
-│ ├──  assignment_guidelines.md # Assignment requirements
-│ └──  submission_checklist.md # Quality assurance checklist
-└──  utils/ # Shared utility functions
-├──  init.py # Package initialization
-├──  data_utils.py # Data manipulation utilities
-└──  plotting_utils.py # Visualization utilities
-
-
----
-
 ## 🎯 Learning Objectives
 
 ### **Technical Skills**

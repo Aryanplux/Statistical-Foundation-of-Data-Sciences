@@ -26,10 +26,10 @@ This repository contains comprehensive practical assignments for **CSU1658 - Sta
 
 | # | Assignment Title | Topics Covered | Status | Notebook |
 |---|------------------|----------------|--------|----------|
-| 01 | **Descriptive Statistics & Array Operations** | Statistical Analysis, Data Manipulation, Linear Algebra | **Complete** | [View](./Assignment-01-Descriptive-Stats/) |
-| 02 | **Probability & Distributions** | Probability Theory, Statistical Distributions | **In Progress** | [View](./Assignment-02-Probability/) |
-| 03 | **Hypothesis Testing** | Statistical Testing, Confidence Intervals | **Planned** | [View](./Assignment-03-Testing/) |
-| 04 | **Regression Analysis** | Linear/Nonlinear Regression, Model Evaluation | **Planned** | [View](./Assignment-04-Regression/) |
+| 01 | **Descriptive Statistics & Array Operations** | Statistical Analysis, Data Manipulation, Linear Algebra | **Complete** | 
+| 02 | **Probability & Distributions** | Probability Theory, Statistical Distributions | **Complete** |
+| 03 | **Hypothesis Testing** | Statistical Testing, Confidence Intervals | **Complete** | 
+| 04 | **Regression Analysis** | Linear/Nonlinear Regression, Model Evaluation | **Complete** |
 
 ---
 

@@ -24,8 +24,8 @@ This repository contains comprehensive practical assignments for **CSU1658 - Sta
 
 ## Assignment Portfolio
 
-| # | Assignment Title | Topics Covered | Status | Notebook |
-|---|------------------|----------------|--------|----------|
+| # | Assignment Title | Topics Covered | Status | 
+|---|------------------|----------------|--------|
 | 01 | **Descriptive Statistics & Array Operations** | Statistical Analysis, Data Manipulation, Linear Algebra | **Complete** | 
 | 02 | **Probability & Distributions** | Probability Theory, Statistical Distributions | **Complete** |
 | 03 | **Hypothesis Testing** | Statistical Testing, Confidence Intervals | **Complete** | 

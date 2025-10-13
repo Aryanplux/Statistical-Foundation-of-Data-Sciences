@@ -1,58 +1,16 @@
+# Student Rating Data Analysis – Assignment 4
 
-* Statistical Foundation of Data Sciences – Assignment 4
-
-**Course:** CSU1658  
 **Student:** Aryan Dhiman (GF202347206)  
-**Date:** October 14, 2025  
+**Course:** CSU1658 – Statistical Foundation of Data Sciences  
+**Date:** October 14, 2025
 
-## Overview
+---
 
-This repository contains solutions and analysis for the Student Rating Dataset. It answers statistical and visualization tasks related to professor tenure, minority status, age, and plotting different variable types in Python using Jupyter Notebook.
+## 📊 Overview
 
+This repository contains code and results from analyzing the Teaching Ratings (Student Rating) dataset for core statistical and plotting tasks. The notebook answers questions related to tenure, minority status, age, evaluation scores, and Python plotting (vertical/horizontal bar).
 
-## Tasks Addressed
+---
 
-1. **Tenure & Minority Status:**  
-   Calculate % of visible minorities who are tenured. Perform significance test for tenure by minority status.
-2. **Age by Tenure:**  
-   Mean and standard deviation of age for tenured and untenured professors.
-3. **Best Age Visualization:**  
-   Compare histogram and box plot for age variable and recommend use.
-4. **Bar vs Barh (Gender):**  
-   Explain the difference and show both vertical and horizontal bar charts using gender variable.
-5. **Tenured Professors Evaluation:**  
-   Calculate median evaluation score for tenured group.
-
-
-## Results
-
-- Data summary tables and percentage calculations
-- Statistical significance tested with Chi-square
-- Mean/StdDev calculations per category
-- Histogram and boxplot visualizations for age
-- Gender vertical and horizontal bar charts
-- Median evaluation score for tenure group
-
-## Technologies Used
-
-- Python 3.x
-- Jupyter Notebook
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scipy
-
-## Author
-
-Aryan Dhiman  
-Shoolini University  
-
-## License
-
-Submitted for academic work in CSU1658.
-
-
-
-
+## 📁 Files
 

@@ -50,7 +50,7 @@ TeachingRatings(TeachingRatings).csv # Data file (teacher ratings)
 ##  Repository
 
 **Repo link:**  
-https://github.com/Aryanplux/Statistical-Foundation-Assignment-5
+[https://github.com/Aryanplux/Statistical-Foundation-Assignment-5](https://github.com/Aryanplux/Statistical-Foundation-of-Data-Sciences/blob/main/Practical%20Assignment/Assignment%205/Statistical%20Foundation%20of%20Data%20Sciences%20%E2%80%93%20Practical%205.ipynb)
 
 ---
 

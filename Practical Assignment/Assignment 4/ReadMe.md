@@ -40,7 +40,7 @@ This repository analyzes key relationships in the Teaching Ratings (Student Rati
 ##  Repository
 
 **Repo link:**  
-https://github.com/Aryanplux/Statistical-Foundation-Assignment-4
+[https://github.com/Aryanplux/Statistical-Foundation-Assignment-4](https://github.com/Aryanplux/Statistical-Foundation-of-Data-Sciences/blob/main/Practical%20Assignment/Assignment%204/Statistical%20Foundation%20of%20Data%20Sciences%20Practical%204.ipynb)
 
 ---
 

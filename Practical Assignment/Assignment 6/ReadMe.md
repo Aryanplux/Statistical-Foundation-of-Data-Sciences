@@ -43,7 +43,7 @@ It covers T-Test, ANOVA, Chi-square, and correlation based on instructor evaluat
 ## Repository
 
 **Repo link:**  
-https://github.com/Aryanplux/Statistical-Foundation-Practical-6
+https://github.com/Aryanplux/Statistical-Foundation-of-Data-Sciences/blob/main/Practical%20Assignment/Assignment%206/Statistical%20Foundation%20Of%20Data%20Science%20Practicle%206.ipynb
 
 ---
 

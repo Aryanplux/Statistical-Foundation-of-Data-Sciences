@@ -46,7 +46,7 @@ Assignment tasks include OLS regression (with T-test and ANOVA) and examining co
 ##  Repository
 
 **Repo link:**  
-https://github.com/Aryanplux/Statistical-Foundation-Practical-7
+[https://github.com/Aryanplux/Statistical-Foundation-Practical-7](https://github.com/Aryanplux/Statistical-Foundation-of-Data-Sciences/blob/main/Practical%20Assignment/Assignment%207/Practical%207%20Stats.ipynb)
 
 ---
 

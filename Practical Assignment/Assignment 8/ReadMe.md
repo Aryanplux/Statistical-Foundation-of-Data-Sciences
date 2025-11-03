@@ -46,7 +46,7 @@ The Pima Indian Diabetes dataset contains medical diagnostic measurements used t
 
 ## GitHub Repository Link
 
-https://github.com/Aryanplux/Decision-Tree-Pima-Indian-Diabetes
+[https://github.com/Aryanplux/Decision-Tree-Pima-Indian-Diabetes](https://github.com/Aryanplux/Statistical-Foundation-of-Data-Sciences/blob/main/Practical%20Assignment/Assignment%208/Assignment%208%20Statistical%20Foundation%20of%20Data%20Sciences.ipynb)
 
 ## Author
 

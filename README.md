@@ -34,7 +34,7 @@ This repository contains an organized portfolio of practical assignments for **C
 | 04 | **Regression Analysis**                         | Linear Regression, Model Evaluation                    | Complete |
 | 05 | **Probability & Z-Test in Context**             | Probability Calculations, Real-world Hypothesis Testing| Complete |
 | 06 | **Group Comparison & Associations**             | T-test, ANOVA, Chi-square, Correlation                 | Complete |
-| 07 | **Regression and Model Summary**                | OLS Regression, ANOVA, Correlation                    | Complete |
+| 07 | **Regression and Model Summary**                | OLS Regression, ANOVA, Correlation                     | Complete |
 | 08 | **Decision Tree Classifier (Diabetes Dataset)** | Feature Selection, Information Theory, ML Visualization| Complete |
 
 ---
